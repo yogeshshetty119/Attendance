@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/text_view_info"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="10dp"
+    android:background="@drawable/info_banner_bg"
+    android:gravity="center"
+    android:padding="5dp"
+    tools:text="Info goes here... Eheu.Est clemens
+     eleates, cesaris.Hercle, secula ferox!, emeritis
+     zirbus!Fortiss ortum in rusticus brema!Solem,
+     extum, et lacta.Sunt danistaes demitto neuter,
+      azureus dominaes.Pol, fatalis verpa!Sunt
+      detriuses perdere placidus, audax diatriaes.
+      Ubi est superbus hilotae?" />

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Attendance App</string>
+    <string name="fac_welcome">Hello %1$s! Below is the list of subjects for you.</string>
+    <string name="no_subjects_info_text">No subjects/departments allotted yet. Please contact Admin to allocate new subjects and departments for you</string>
+    <string name="sem_text">%1$d sem</string>
+</resources>
